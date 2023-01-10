@@ -1,0 +1,8 @@
+node_modules
+documentation
+scripts
+CI
+dist
+log
+static
+swagger-spec.json

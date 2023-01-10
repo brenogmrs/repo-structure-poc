@@ -1,0 +1,13 @@
+node_modules
+documentation
+CI
+dist
+log
+static
+ormconfig.json
+commitlint.config.js
+jest.config.js
+*.test.ts
+swagger-spec.json
+ormconfig.js
+client
